@@ -13,3 +13,30 @@ h4 {
 	width: 90px;
 	text-align: center;
 }
+
+.menu {
+	text-decoration: none;
+	color:gray;
+	padding-left:10px;
+	font-size:20px;
+}
+
+a:hover {
+	color:black;
+}
+
+
+nav {
+	list-style-type: none;
+	float:right;
+}
+li {
+	display: inline-block;
+}
+
+h1 {
+	float:left;
+}
+h3 {
+	clear:left;
+}
