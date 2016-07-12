@@ -63,6 +63,7 @@ li {
 
 .top {
 	padding-top: 100px;
+	content:0;
 }
 
 h3 {
@@ -89,5 +90,8 @@ footer {
 }
 #container2 {
 	margin:0 auto;
+}
+.contact {
+	text-align: center;
 }
 
