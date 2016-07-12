@@ -26,17 +26,18 @@ h4 {
 .headimg {
 	position: fixed;
 	float: left;
-	padding-right: 50px;
 	top: 0;
 	left: 0;
 }
 
 h1 {
-	position: fixed;
 	float: left;
 	margin: auto 0;
 	top: 0;
-	left: 70;
+	left: 0:;
+	margin-left: 90px;
+	margin-top: 10px;
+
 }
 
 .menu {
@@ -45,6 +46,7 @@ h1 {
 	color: gray;
 	padding-left:10px;
 	font-size:20px;
+	margin-right: 20px;
 }
 
 a:hover {
