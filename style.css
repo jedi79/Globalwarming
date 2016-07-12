@@ -97,3 +97,24 @@ footer {
 	text-align: center;
 }
 
+#main {
+/*	position: fixed;*/
+	margin-top: 10px;
+	margin-left: 60px;
+	margin-bottom: 85px;
+	clear: left;
+	display: block;
+	overflow: auto;
+}
+
+.text {
+/*	border: 1px solid black;*/
+	margin: 1%;
+	width: 30%;
+	float: left;
+
+}
+
+p {
+	margin-top: auto;
+}
