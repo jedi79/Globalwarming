@@ -64,8 +64,8 @@ li {
 h3 {
 	clear:left;
 	text-align: center;
-	font-size:23px;
-}
+	font-size:23px;}
+	
 img {
 	margin:0 auto;
 	display: block;
@@ -86,3 +86,4 @@ footer {
 #container2 {
 	margin:0 auto;
 }
+
